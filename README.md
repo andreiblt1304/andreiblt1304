@@ -33,7 +33,7 @@ Primary owner of production **Sovereign Chain** smart contracts at **MultiversX*
 ---
 
 ## 🧰 Stack & Interests
-**Rust (`no_std`, `unsafe`) · Protocol design · Systems programming · Testing · Performance · NestJS · Docker/K8s · PostgreSQL · Go**
+**Rust (`no_std`, `unsafe`) · Protocol design · Systems programming · Performance · NestJS · Docker/K8s · PostgreSQL · AI**
 
 Interested in **protocols, distributed systems, AI infrastructure**, and **high-ownership engineering**.
 
@@ -43,4 +43,4 @@ Interested in **protocols, distributed systems, AI infrastructure**, and **high-
 ![Stats](https://github-readme-stats.vercel.app/api?username=andreiblt1304&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiblt1304&layout=compact&hide_border=true)
 
-📍 Open to **remote (EU / global)** protocol & core engineering roles
+📍 If you are interested in collaborations or have any questions about me LMK.
