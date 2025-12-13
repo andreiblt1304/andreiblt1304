@@ -7,7 +7,7 @@ Primary owner of production **Sovereign Chain** smart contracts at **MultiversX*
 
 ## 🚀 Core Work — MultiversX
 - **Primary owner** of `mx-sovereign-sc` (**>90% of codebase**)
-- **Led all production releases** for [Sovereign Chains](https://github.com/multiversx/mx-sovereign-sc)
+- **Led all production releases** for Sovereign Chains
 - Designed protocol-level contracts:
   - multi-phase chain deployment
   - hash-locked cross-chain execution
