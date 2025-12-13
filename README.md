@@ -1,6 +1,6 @@
 # Hi, I'm Andrei — Rust · Smart Contract Infrastructure · Systems · AI 
 
-I build **Rust-based blockchain infrastructure** and **low-level systems** enthusiasts.  
+I build **Rust-based blockchain infrastructure** and **low-level systems**.  
 Primary owner of production **Sovereign Chain** smart contracts at **MultiversX**, with a focus on **protocol correctness, performance, and testing**.
 
 ---
