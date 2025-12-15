@@ -16,6 +16,8 @@ Primary owner of production **Sovereign Chain** smart contracts at **MultiversX*
 - SDK integration, code reviews, mentoring
 
 🔗 https://github.com/multiversx/mx-sovereign-sc
+🔗 https://deepwiki.com/multiversx/mx-sovereign-sc
+🔗 https://docs.multiversx.com/sovereign/cross-chain-execution
 
 ---
 
