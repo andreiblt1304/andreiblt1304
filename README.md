@@ -2,6 +2,7 @@
 
 I build **Rust-based blockchain infrastructure** and **low-level systems**.  
 Primary owner of production **Sovereign Chain** smart contracts at **MultiversX**, with a focus on **protocol correctness, performance, and testing**.
+- 🇷🇴 Ranked **#23 in commits** and **#17 in open-source contributions** among GitHub developers in Romania base on this [leader board](https://committers.top/romania_public) (2025)
 
 ---
 
