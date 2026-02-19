@@ -24,12 +24,10 @@ Primary owner of production **Sovereign Chain** smart contracts at **MultiversX*
 ## Projects
 - **p0ndOS** — bare-metal `x86_64` kernel in Rust (`no_std`)  
   Paging, heap allocators, interrupts, QEMU testing  
-  🔗 https://github.com/andreiblt1304/p0ndOS
+   https://github.com/andreiblt1304/p0ndOS
 
-- **Decentralised P2P FROST signing**
-  Using the rust-libp2p and frost libraries, this network allows for decentralised key exchange and threshold signing. Peers subscribe to
-  a specific topic and then depending on the round they communicate via gossip or request-response to generate the key shares and
-  finalise the signing process
+- **Decentralised P2P FROST signing** - DKG and threshold signing protocol
+    Using the rust-libp2p and frost libraries, this network allows for decentralised key exchange and threshold signing. Peers subscribe to a specific topic and then depending on the round they communicate via gossip or request-response to generate the key shares and finalise the signing process
 
 - **AI Platform** — multi-agent backend (NestJS + LLMs)  
   LangChain & LangChainJS, RAG with both provided and self hosted models, OAuth2/JWT, Postgres, observability (closed source)
