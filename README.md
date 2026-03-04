@@ -1,51 +1,177 @@
-# Hi, I'm Andrei — Rust · Smart Contract Infrastructure · Systems · AI 
+# Hi, I'm Andrei — Backend & Systems Engineer  
+### Rust · Distributed Systems · Blockchain Infrastructure · AI Backend
 
-I build **Rust-based blockchain infrastructure** and **low-level systems**.  
-Primary owner of production **Sovereign Chain** smart contracts at **MultiversX**, with a focus on **protocol correctness, performance, and testing**.
-- Ranked **#21st in commits** and **#16th in open-source contributions** among GitHub developers in Romania base on this [leader board](https://committers.top/romania_public) (As of 31st December, 2025);
----
+I build **high-performance backend and protocol infrastructure**, with a strong focus on **Rust systems programming, distributed execution models, and deterministic state machines**.
 
-## Core Work — MultiversX
-- **Primary owner** of `mx-sovereign-sc` (**>90% of codebase**)
-- **Led all production releases** for Sovereign Chains
-- Designed protocol-level contracts:
-  - multi-phase chain deployment
-  - hash-locked cross-chain execution
-  - fee market logic & unified token custody
-- **>90% test coverage**, `no_std` / `unsafe` Rust optimizations
-- SDK integration, code reviews, mentoring
+My work sits at the intersection of **backend engineering, blockchain protocols, and systems programming**, where correctness, performance, and safety are critical.
 
-🔗 https://github.com/multiversx/mx-sovereign-sc
-🔗 https://deepwiki.com/multiversx/mx-sovereign-sc
-🔗 https://docs.multiversx.com/sovereign/cross-chain-execution
+I am currently a **Software Engineer at MultiversX**, where I design and maintain infrastructure for **Sovereign Chains and cross-chain execution**.
+
+- Ranked **#21 in commits** and **#16 in open-source contributions** among GitHub developers in Romania based on this [leaderboard](https://committers.top/romania_public) *(Dec 31, 2025)*
 
 ---
 
-## Projects
-- **p0ndOS** — bare-metal `x86_64` kernel in Rust (`no_std`)  
-  Paging, heap allocators, interrupts, QEMU testing  
-   https://github.com/andreiblt1304/p0ndOS
+# Core Work — MultiversX
 
-- **Decentralised P2P FROST signing** - DKG and threshold signing protocol  
-    Using the `rust-libp2p` and `frost` libraries, this network allows for decentralised key exchange and threshold signing. Peers subscribe to a specific topic and then depending on the round they communicate via gossip or request-response to generate the key shares and finalise the signing process
+At **MultiversX**, I work on **execution-layer infrastructure and protocol-level smart contract systems**.
 
-- **AI Platform** — multi-agent backend (NestJS + LLMs)  
-  LangChain & LangChainJS, RAG with both provided and self hosted models, OAuth2/JWT, Postgres, observability (closed source)
+I am the **primary owner of the `mx-sovereign-sc` repository**, contributing **>90% of the codebase** and leading production releases.
 
-- **Parallel Execution in MultiversX** — blockchain throughput research  
-  Dependency graphs, clustering, multithreaded benchmarks
+### Responsibilities
+
+- Designed **Sovereign Chain infrastructure** for isolated execution environments
+- Implemented **hash-locked cross-chain execution flows**
+- Built **multi-phase chain deployment mechanisms**
+- Implemented **fee market logic and unified token custody**
+- Designed **testing infrastructure with >90% coverage**
+- Performed **Rust optimizations using `no_std` and `unsafe` where necessary**
+- Led **code reviews and internal technical mentoring**
+
+These systems require strict guarantees around:
+
+- **deterministic execution**
+- **protocol correctness**
+- **safety-critical logic**
+- **performance under constrained execution environments**
+
+### References
+
+Repository  
+https://github.com/multiversx/mx-sovereign-sc  
+
+Architecture overview  
+https://deepwiki.com/multiversx/mx-sovereign-sc  
+
+Documentation  
+https://docs.multiversx.com/sovereign/cross-chain-execution
 
 ---
 
-## Stack & Interests
-**Rust (`no_std`, `unsafe`) · Protocol design · Systems programming · Performance · NestJS · Docker/K8s · PostgreSQL · AI**
+# Selected Projects
 
-Interested in **protocols, distributed systems, AI infrastructure**, and **high-ownership engineering**.
+## p0ndOS — Bare-Metal Rust Kernel
+A minimal **x86_64 operating system kernel written in Rust (`no_std`)**.
+
+Implemented:
+
+- paging and virtual memory management
+- heap allocators
+- interrupt handling
+- CPU exception handling
+- VGA text output
+- custom test framework
+- QEMU-based testing environment
+
+This project explores **low-level systems programming and memory safety guarantees in Rust**.
+
+Repository  
+https://github.com/andreiblt1304/p0ndOS
 
 ---
 
-## GitHub
+## Decentralised P2P FROST Signing Network
+
+Implementation of a **threshold signature network** using:
+
+- `rust-libp2p`
+- `FROST` threshold signature scheme
+
+Peers participate in:
+
+- distributed key generation (DKG)
+- threshold signing rounds
+- gossip-based coordination
+- request-response message flows
+
+The project explores **distributed cryptographic protocols and peer-to-peer coordination mechanisms**.
+
+---
+
+## AI Backend Platform
+
+Backend platform for **AI-driven multi-agent pipelines**.
+
+Architecture includes:
+
+- NestJS backend services
+- LangChain / LangChainJS orchestration
+- Retrieval-Augmented Generation (RAG)
+- OAuth2 + JWT authentication
+- PostgreSQL data storage
+- observability and telemetry
+
+The platform orchestrates agents responsible for:
+
+- intent detection
+- information gathering
+- data retrieval
+- structured output generation
+
+Future plans include:
+
+- **gRPC communication between microservices**
+- partial **Rust migration for strongly-typed execution layers**
+
+---
+
+## Parallel Execution in MultiversX
+
+Research exploring **parallel transaction execution models** for blockchain systems.
+
+Focus areas:
+
+- dependency graph construction
+- clustering of non-conflicting transactions
+- safe parallel execution
+- throughput benchmarking
+
+Implemented using **Go with multithreaded benchmarking infrastructure**.
+
+---
+
+# Engineering Focus
+
+I am particularly interested in building systems that require:
+
+- **deterministic execution**
+- **concurrency-safe architectures**
+- **high-throughput backend systems**
+- **distributed protocols**
+- **cryptographic coordination mechanisms**
+- **AI infrastructure and agent orchestration**
+
+---
+
+# Technology Stack
+
+**Languages**
+
+Rust · Go · TypeScript
+
+**Backend**
+
+NestJS · REST APIs · WebSocket APIs · PostgreSQL
+
+**Systems**
+
+Rust `no_std` · memory management · concurrency
+
+**Infrastructure**
+
+Docker · Kubernetes · CI/CD pipelines · observability
+
+**Domains**
+
+Distributed systems · blockchain protocols · AI backend platforms
+
+---
+
+# GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=andreiblt1304&show_icons=true&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiblt1304&layout=compact&hide_border=true)
 
-If you are interested in collaborations or have any questions about me LMK.
+---
+
+If you are interested in collaboration, engineering discussions, or have questions about my work — feel free to reach out.
